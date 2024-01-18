@@ -1,4 +1,4 @@
----
+-install--
 sidebar_position: 1
 sidebar_label: 🥡 Installation
 title: 🚄 Setup and run a Collator
